@@ -11,37 +11,12 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Run the following command to install the required dependencies:
-4. Once the dependencies are installed, install the following additional packages:
-
-- Node Modules:
+4. Once the dependencies are installed, install the node modules using following command:
 
 ```
 npm install
 ```
 
-- Redux Toolkit:
-
-```
-  npm install @reduxjs/toolkit
-```
-
-- Chart.js:
-
-```
-  npm install chart.js
-```
-
-- React Chart.js 2:
-
-```
- npm install react-chartjs-2
-```
-
-- React Router DOM:
-
-```
-  npm install react-router-dom
-```
 
 ## Running the Application
 
